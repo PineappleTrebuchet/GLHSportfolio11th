@@ -1,1 +1,2 @@
-# GLHSportfolio11th
+# My Coding and Programming Portfolio
+
